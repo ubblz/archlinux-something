@@ -1,2 +1,6 @@
 1.关闭archlinux的输入蜂鸣声
-  https://wiki.archlinux.org/title/PC_speaker =》 选择控制台方法！
+  在辅助设置里，把bell关掉
+
+2.蓝牙音频播放问题
+  https://beekc.top/2018/11/30/use-bluetooth-headset-in-archlinux/
+  安装pulseaudio pulseaudio-bluetooth
