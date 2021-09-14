@@ -4,3 +4,7 @@
 2.蓝牙音频播放问题
   https://beekc.top/2018/11/30/use-bluetooth-headset-in-archlinux/
   安装pulseaudio pulseaudio-bluetooth
+3.替换grub启动加载器主题
+  1）下载主题
+  2）修改/etc/defalut/grub 里的 GRUB_THEME 主题引导
+  3）重新grub-mkconfig 一下
